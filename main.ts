@@ -224,7 +224,7 @@ let addnum:addNumber = new addNumber()
 class MathBoll{
     add(a:number ,b:number):number;
     add(a:any ,b:any):any{
-        return a * b
+        return a / b
     }
 }
 
